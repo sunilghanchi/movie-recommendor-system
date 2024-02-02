@@ -50,7 +50,7 @@ To run the project locally:
 3. Run the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 ## Contributions
@@ -59,5 +59,5 @@ Contributions to the project are welcome! If you encounter any issues or have su
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 

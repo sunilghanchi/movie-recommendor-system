@@ -1,4 +1,4 @@
-# Movie Recommendor System 
+# Movie Recommendation System 
 website - https://mrs-sunil.onrender.com/
 
  

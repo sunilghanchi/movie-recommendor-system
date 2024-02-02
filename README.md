@@ -27,8 +27,8 @@ The project involves the following steps:
 
 The Streamlit interface will include the following components:
 
-- **Input Form**: Users can input their preferences such as favorite movie, genre, etc.
-- **Recommendation Display**: Display personalized movie recommendations based on user input.
+- **Movie List**: Users can select the favorite movie from movie lost.
+- **Recommendation Display**: Display personalized movie recommendations based on selection.
 - **User Interaction**: Allow users to interact with the interface and explore different movie recommendations.
 
 ## Usage

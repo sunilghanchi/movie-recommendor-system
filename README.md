@@ -8,7 +8,7 @@ This project aims to build a movie recommendation system for Bollywood movies fr
 
 ## Dataset
 
-The dataset used in this project contains approximately 3500 Bollywood movies released between 1950 and 2019. The dataset includes information such as movie titles, genres, actors, directors, etc.
+The dataset used in this project contains approximately 3500 Bollywood movies released between 1950 and 2019. The dataset includes information such as movie titles, genres, actors, etc.
 
 ## Process Overview
 
